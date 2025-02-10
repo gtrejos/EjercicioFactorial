@@ -4,8 +4,8 @@ body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(
         to bottom,
-        rgb(0, 247, 255)30px,
-        rgba(0, 0, 0, 0.98) 80px
+        rgb(0, 247, 255),
+        rgba(0, 0, 0, 0.98) 50%
     );
     display: flex;
     justify-content: center;
